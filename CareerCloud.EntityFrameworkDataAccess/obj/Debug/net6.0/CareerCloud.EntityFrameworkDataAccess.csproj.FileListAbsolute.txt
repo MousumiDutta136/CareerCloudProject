@@ -1,0 +1,34 @@
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.deps.json
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\ref\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.csproj.AssemblyReference.cache
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.AssemblyInfoInputs.cache
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.AssemblyInfo.cs
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\ref\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.deps.json
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.csproj.AssemblyReference.cache
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.AssemblyInfoInputs.cache
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.AssemblyInfo.cs
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\ref\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\net6.0\refint\CareerCloud.EntityFrameworkDataAccess.dll

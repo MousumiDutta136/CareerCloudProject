@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7a487fe9-8eac-4108-ae17-f242318d072f": {
+      "ProjectGuid": "7a487fe9-8eac-4108-ae17-f242318d072f",
+      "DisplayName": "CareerCloud.ADODataAccessLayer",
+      "ColorIndex": 0
+    },
+    "195da94d-0593-4fb6-97a8-fbc83edc031b": {
+      "ProjectGuid": "195da94d-0593-4fb6-97a8-fbc83edc031b",
+      "DisplayName": "CareerCloud.Pocos",
+      "ColorIndex": 1
+    },
+    "7b75ed29-6a6a-4633-9b96-693acc0cfe82": {
+      "ProjectGuid": "7b75ed29-6a6a-4633-9b96-693acc0cfe82",
+      "DisplayName": "CareerCloud.BusinessLogicLayer",
+      "ColorIndex": 2
+    },
+    "18585a04-156d-4035-a87c-20f0c433e878": {
+      "ProjectGuid": "18585a04-156d-4035-a87c-20f0c433e878",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment3",
+      "ColorIndex": 3
+    },
+    "3ae54927-eec5-4a58-a3b0-5af1ebdb7bf4": {
+      "ProjectGuid": "3ae54927-eec5-4a58-a3b0-5af1ebdb7bf4",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment3",
+      "ColorIndex": 4
+    },
+    "d097e08c-6e13-4ab2-ae5d-2ff3898a20d0": {
+      "ProjectGuid": "d097e08c-6e13-4ab2-ae5d-2ff3898a20d0",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment2",
+      "ColorIndex": 5
+    },
+    "48102434-75a7-4b84-9c3a-364dd352cd6b": {
+      "ProjectGuid": "48102434-75a7-4b84-9c3a-364dd352cd6b",
+      "DisplayName": "CareerCloud.EntityFrameworkDataAccess",
+      "ColorIndex": 6
+    },
+    "1f9b4f96-f348-4022-9c2b-2fef395038c5": {
+      "ProjectGuid": "1f9b4f96-f348-4022-9c2b-2fef395038c5",
+      "DisplayName": "CareerCloud.DataAccessLayer",
+      "ColorIndex": 7
+    },
+    "3f9486da-c181-4912-9932-4880daf76f77": {
+      "ProjectGuid": "3f9486da-c181-4912-9932-4880daf76f77",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment4",
+      "ColorIndex": 8
+    },
+    "477b1be9-8817-4938-a194-0ea8312e1efb": {
+      "ProjectGuid": "477b1be9-8817-4938-a194-0ea8312e1efb",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment4",
+      "ColorIndex": 9
+    },
+    "49c438ab-6a3c-4b8c-a6a5-373c6e626ea8": {
+      "ProjectGuid": "49c438ab-6a3c-4b8c-a6a5-373c6e626ea8",
+      "DisplayName": "CareerCloud.WebAPI",
+      "ColorIndex": 10
+    },
+    "9c4bf57e-86f0-4093-90cf-180c21f41b91": {
+      "ProjectGuid": "9c4bf57e-86f0-4093-90cf-180c21f41b91",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment5",
+      "ColorIndex": 11
+    },
+    "8453a8b2-dfa1-4508-8897-542e9e6b559e": {
+      "ProjectGuid": "8453a8b2-dfa1-4508-8897-542e9e6b559e",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment1",
+      "ColorIndex": 12
+    },
+    "8c6aa0f7-87e7-45fa-a996-07c62b5828d2": {
+      "ProjectGuid": "8c6aa0f7-87e7-45fa-a996-07c62b5828d2",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment5",
+      "ColorIndex": 13
+    },
+    "4d1a084f-09b9-48f7-8b68-8d2c4594c7e4": {
+      "ProjectGuid": "4d1a084f-09b9-48f7-8b68-8d2c4594c7e4",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment5",
+      "ColorIndex": 14
+    },
+    "a567a168-f7bb-4d6e-9199-7a09b4aaaf2d": {
+      "ProjectGuid": "a567a168-f7bb-4d6e-9199-7a09b4aaaf2d",
+      "DisplayName": "CareerCloud.gRPC",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

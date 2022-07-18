@@ -1,0 +1,34 @@
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.deps.json
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.deps.json
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\Working Version Career Cloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.deps.json
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\ref\CareerCloud.Pocos.dll
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.pdb
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.AssemblyReference.cache
+C:\Users\dutta\source\repos\Humber\c#Assignment5\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\refint\CareerCloud.Pocos.dll
